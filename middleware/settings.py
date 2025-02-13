@@ -53,6 +53,9 @@ MIDDLEWARE = [
     'blog.middlewares.Brothermiddleware',
     'blog.middlewares.Fathermiddleware',
     'blog.middlewares.Mothermiddleware',
+    # 'blog.middlewares.Myprocessmiddleware',
+    # 'blog.middlewares.Myexceptionmiddleware',
+    # 'blog.middlewares.Mytemplateresponsemiddleware',
     
 ]
 
